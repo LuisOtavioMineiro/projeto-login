@@ -32,7 +32,7 @@ main {
     display: block;
     background: #5f2c82 url('../imagens/pexels-tiennguyen-28927885.jpg') no-repeat;
     background-size: cover;
-    background-position: bottom;
+    background-position: center bottom ;
     height: 200px;
 }
 #login > #formulario {
