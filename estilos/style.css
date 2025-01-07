@@ -29,7 +29,7 @@ main {
 #login > #imagem {
     display: block;
     background: #5f2c82 url(../imagens/pexels-tiennguyen-28927885.jpg) no-repeat;
-    background-position: center bottom;
+    background-position: left bottom;
     background-size: cover;
     height: 200px;
 }
