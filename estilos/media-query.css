@@ -33,3 +33,15 @@
         width: 100%;
     }
 }
+@media screen and (max-width:767px) and (Orientation: landscape) {
+    #login {
+        width: 250px;
+        height: 500px;
+    }
+    #login > imagem {
+        height: 200px;
+    }
+    #login > #formulario {
+        width: 100%;
+    }
+}
